@@ -1,2 +1,4 @@
-<canvas id="canvas" width="150" height="150"></canvas>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.js">
+
+</script>
 
